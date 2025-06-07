@@ -38,7 +38,7 @@ def get_construction_news():
             })
 
     df = pd.DataFrame(news_data)
-    df.to_csv('construction_news.csv', index=False)
+    df.to_csv('backend/Scraped Data/ News and Trends/construction_news.csv', index=False)
     print("Scraped and saved news articles to construction_news.csv")
 
 get_construction_news()
