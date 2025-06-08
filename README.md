@@ -27,7 +27,10 @@ The AEC industry is becoming increasingly complex and competitive. SJ currently 
 ✅ A centralized, AI-enhanced dashboard for strategic planning  
 
 ---
+## 🎯 Architecture
+![architecture_diagram](https://github.com/user-attachments/assets/15f0a292-df32-436d-b203-700a45d4bb0c)
 
+---
 ## 🖥️ Dashboard Walkthrough
 
 The dashboard has been built for clarity, interactivity, and strategic use:
