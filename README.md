@@ -1,4 +1,4 @@
-# 🧠 AEC Market Intelligence Navigator  
+# 🧠 AEC Market Intelligence Navigator: SJ-MarketIntl
 **AI-Driven Market Analysis for Strategic Positioning**  
 **Built for Surbana Jurong in CWB Hackathon Challenge 2025**
 
@@ -18,7 +18,7 @@ The AEC industry is becoming increasingly complex and competitive. SJ currently 
 
 ## 🎯 Purpose of the Solution
 
-**AEC Market Intelligence Navigator** is designed to solve these issues by offering:
+**SJ-MarketIntl** is designed to solve these issues by offering:
 
 ✅ **Geographical and sector-based visualization** of market opportunities  
 ✅ **Competitor activity tracking** (e.g., AECOM, Arup, Atkins, SMEC, WSP)  
@@ -144,7 +144,7 @@ npm run dev
 
 ## 🔮 Future Scope
 
-⏱️ Automate scheduled data collection using Cron jobs in Azure Functions
+⏱️ Automate scheduled data collection using Cron jobs in Azure Functions and build AI agents to make data collection more streamlined and relevant
 
 🔍 Expand data sources to include more global and niche competitors
 
