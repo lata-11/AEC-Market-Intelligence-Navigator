@@ -53,7 +53,7 @@ The dashboard has been built for clarity, interactivity, and strategic use:
 - Currently includes scraped data from AECOM, SMEC, WSP, etc.
 
 > ✅ **User-Friendly Interface**  
-> Designed with Streamlit for quick navigation, filtering, and decision support.
+> Designed with ReactJS for quick navigation, filtering, and decision support.
 
 ---
 
@@ -65,7 +65,8 @@ The dashboard has been built for clarity, interactivity, and strategic use:
 | **Azure CosmosDB** | Stores scraped news articles, competitor reports, opportunity data         |
 | **Azure AI Search** | Enables semantic, keyword, and tag-based exploration of indexed content   |
 | **Python**        | Scripts for scraping, cleaning, and enriching raw data                      |
-| **Streamlit**     | Frontend framework used to build the interactive dashboard UI               |
+| **React
+**     | Frontend framework used to build the interactive dashboard UI               |
 
 ---
 
