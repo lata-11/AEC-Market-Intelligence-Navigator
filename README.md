@@ -1,16 +1,9 @@
 # 🧠 AEC Market Intelligence Navigator  
 **AI-Driven Market Analysis for Strategic Positioning**  
-**Built for Surbana Jurong Hackathon Challenge**
+**Built for Surbana Jurong in CWB Hackathon Challenge 2025**
 
 ---
 
-## 🎤 Introduction
-
-Hello!  
-I’m **Lata**, a student from India, and I’m excited to present my project **“AEC Market Intelligence Navigator.”**  
-This solution was developed for Surbana Jurong’s challenge to revolutionize how market intelligence is gathered, interpreted, and used for **strategic decision-making** in the Architecture, Engineering, and Construction (AEC) industry.
-
----
 
 ## 📌 Problem Statement
 
