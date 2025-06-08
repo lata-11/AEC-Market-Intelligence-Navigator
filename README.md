@@ -98,7 +98,7 @@ Each script normalizes unstructured data, tags sector/region/sentiment, and stor
 
 | Improvement                          | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
-| ⏰ Cron Job Automation                | Use Azure Functions to schedule real-time scraping and updates             |
+| ⏰ Cron Job Automation                | Use Azure Functions to automate scheduled data collection using Cron jobs in Azure Functions and build AI agents to make data collection more streamlined and relevant |
 | 🌍 Expand Competitor and Trend Sources | Include more global competitors and localized development pipelines         |
 | 📈 Predictive Opportunity Forecasting | Use ML to forecast likely success rates, RFP triggers, and budget volumes  |
 | 📜 Regulatory Impact Forecast        | Map how urban planning policies will affect projects in different regions   |
@@ -138,20 +138,21 @@ python app.py
 ### 3. Frontend
 ```bash
 cd frontend/project
-npm run dev 
+npm run dev ![news_monitor](https://github.com/user-attachments/assets/aaf93ea2-1a23-45db-a4da-681562532d32)
+
 
 ```
 
-## 🔮 Future Scope
+## 🔮 UI
+![aec_dashboard](https://github.com/user-attachments/assets/c9459e5f-07e1-486f-9a82-6cf141f90928)
 
-⏱️ Automate scheduled data collection using Cron jobs in Azure Functions and build AI agents to make data collection more streamlined and relevant
+![trend_analysis](https://github.com/user-attachments/assets/0bf19ff4-630a-4eed-a778-0ba318342cc6)
 
-🔍 Expand data sources to include more global and niche competitors
+![opportunity_alert](https://github.com/user-attachments/assets/5ec2d2e9-a066-4cd5-ac1b-1ea36663ecd5)
 
-🧠 Integrate predictive models for revenue potential and project success likelihood
+![advanced_search](https://github.com/user-attachments/assets/1f6c6631-6dfa-4881-a438-e12bd6c2e8c1)
 
-📢 Client sentiment analysis based on social media and interviews
+![news_monitor](https://github.com/user-attachments/assets/19cc8756-6ee4-48ae-98b7-56bbac84c566)
 
-📜 Regulatory foresight: Predict market impact of upcoming policy changes
 
 
